@@ -1,5 +1,5 @@
 [
     {
-    "module" : "dirlist", "args" : {}
+    "module" : "dirlister", "args" : {}
     }
 ]
