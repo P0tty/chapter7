@@ -1,5 +1,5 @@
 [
     {
-    "module" : "command", "args" : {"command": "ifconfig"}
+    "module" : "command", "args" : {"command": "ipconfig"}
     }
 ]
